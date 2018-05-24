@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # Created by Bruce yuan on 18-1-22.
+# Modified by Gemma X on 18-5-24
 import requests
 import os
 import json
@@ -13,9 +14,9 @@ class Config:
     １．　本地仓库的的路径
     ２．　github中的仓库leetcode解法的路径
     """
-    local_path = '/home/yuan/PycharmProjects/algorithms_and_oj'
+    local_path = '/Users/kalexjune/Documents/Algorithm'
     # solution of leetcode
-    github_leetcode_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/leetcode-algorithms/'
+    github_leetcode_url = 'https://github.com/gemmax/Algorithm/tree/master/code/leetcode'
     # solution of pat,　暂时还没写
     github_pat_url = 'https://github.com/hey-bruce/algorithms_and_oj/blob/master/pat-algorithms/'
     leetcode_url = 'https://leetcode.com/problems/'
