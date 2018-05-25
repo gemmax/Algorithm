@@ -1,10 +1,10 @@
 # Keep thinking, keep alive
-Until 2018-05-24 22:36:18, I have solved **0** / **754** problems while **133** are still locked.
+Until 2018-05-25 22:27:58, I have solved **1** / **754** problems while **133** are still locked.
 
 Completion statistic: 
 1. JavaScript: 0 
 2. Python: 0
-3. C++: 0
+3. C++: 1
 4. Java: 0
 
 Note: :lock: means you need to buy a book from LeetCode
@@ -295,7 +295,7 @@ Note: :lock: means you need to buy a book from LeetCode
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |Hard|To Do|To Do|To Do|To Do|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) :lock:|Medium|To Do|To Do|To Do|To Do|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/) |Medium|To Do|To Do|To Do|To Do|
-|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |Medium|To Do|To Do|To Do|To Do|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) |Medium|To Do|To Do|[C++](https://github.com/gemmax/Algorithm/tree/master/code/leetcode/300.%20Longest%20Increasing%20Subsequence/300.cpp)|To Do|
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) |Hard|To Do|To Do|To Do|To Do|
 |302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/description/) :lock:|Hard|To Do|To Do|To Do|To Do|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) |Easy|To Do|To Do|To Do|To Do|
